@@ -1,1 +1,1 @@
-[my-repo-stats](my-repo-stats/)
+[my-repo-stats](//mike-clark-8192.github.io/my-repo-stats/)
